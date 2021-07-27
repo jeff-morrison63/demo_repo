@@ -4,7 +4,10 @@ apples
 bananas
 yogurt
 milk
-bread
+
+butter
+
+wheat bread
 cereal
 eggs
 bacon
@@ -19,3 +22,5 @@ sugar
 flour
 soup
 soap
+coffee
+tomatoes
